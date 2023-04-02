@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class BinomialCoefficient {
 
     public static int compute(int n, int k) {
@@ -11,8 +13,12 @@ public class BinomialCoefficient {
     }
 
     public static void main(String[] args) {
-        int n = 2;
-        int k = 1;
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Enter the value of n: ");
+        int n = scanner.nextInt();
+        System.out.print("Enter the value of k: ");
+        int k = scanner.nextInt();
+        scanner.close();
         int result = compute(n, k);
         System.out.println(result);
     }

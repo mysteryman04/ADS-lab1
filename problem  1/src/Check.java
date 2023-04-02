@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Check {
     public static boolean isAllDigits(String s) {
         if (s.isEmpty()) {
@@ -11,11 +13,12 @@ public class Check {
         }
     }
     public static void main(String[] args) {
-        String s1 = "123456";
-        String s2 = "123a12";
-        boolean result1 = isAllDigits(s1);
-        boolean result2 = isAllDigits(s2);
-        System.out.println(result1 ? "Yes" : "No");
-        System.out.println(result2 ? "Yes" : "No");
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Enter a string: ");
+        String input = scanner.nextLine();
+        scanner.close();
+
+        boolean result = isAllDigits(input);
+        System.out.println(result ? "Yes" : "No");
     }
 }

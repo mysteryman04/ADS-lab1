@@ -1,8 +1,13 @@
+import java.util.Scanner;
+
 public class PowerOf {
     public static void main(String[] args) {
-        int a = 2;
-        int n = 5;
-        System.out.println(a + "^" + n + " = " + power(a, n));
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Enter the base: ");
+        int a = scanner.nextInt();
+        System.out.print("Enter the exponent: ");
+        int n = scanner.nextInt();
+        System.out.println(power(a, n));
     }
     public static int power(int a, int n) {
         if (n == 0) {

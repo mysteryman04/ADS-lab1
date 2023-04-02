@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class GCD {
     public static int computeGCD(int a, int b) {
         if (b == 0) {
@@ -7,8 +9,11 @@ public class GCD {
         }
     }
     public static void main(String[] args) {
-        int a = 32;
-        int b = 48;
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Enter the first number: ");
+        int a = scanner.nextInt();
+        System.out.print("Enter the second number: ");
+        int b = scanner.nextInt();
         int gcd = computeGCD(a, b);
         System.out.println(gcd);
     }
