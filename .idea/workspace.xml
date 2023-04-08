@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a99df10-6f27-4a4e-8d21-5ff57b5a7bfc" name="Changes" comment="lst">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem  1/src/Check.java" beforeDir="false" afterPath="$PROJECT_DIR$/problem  1/src/CheckForDigits.java" afterDir="false" />
+    <list default="true" id="0a99df10-6f27-4a4e-8d21-5ff57b5a7bfc" name="Changes" comment="erased">
+      <change beforePath="$PROJECT_DIR$/problem  1/src/CheckForDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/problem  1/src/CheckForDigits.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,7 @@
       <workItem from="1680423667174" duration="63000" />
       <workItem from="1680423933424" duration="970000" />
       <workItem from="1680487866008" duration="455000" />
-      <workItem from="1680943731486" duration="501000" />
+      <workItem from="1680943731486" duration="1024000" />
     </task>
     <task id="LOCAL-00001" summary="lst">
       <created>1680424849490</created>
@@ -62,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680424849490</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="erased">
+      <created>1680945425483</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680945425483</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +87,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lst" />
-    <option name="LAST_COMMIT_MESSAGE" value="lst" />
+    <MESSAGE value="erased" />
+    <option name="LAST_COMMIT_MESSAGE" value="erased" />
   </component>
 </project>
