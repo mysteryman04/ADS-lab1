@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a99df10-6f27-4a4e-8d21-5ff57b5a7bfc" name="Changes" comment="we use recursion by calling method isAllDigits inside itself to check if it's true for all characters one by one">
+    <list default="true" id="0a99df10-6f27-4a4e-8d21-5ff57b5a7bfc" name="Changes" comment="erased">
       <change beforePath="$PROJECT_DIR$/problem  1/src/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/problem  1/src/Factorial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +53,7 @@
       <workItem from="1680423667174" duration="63000" />
       <workItem from="1680423933424" duration="970000" />
       <workItem from="1680487866008" duration="455000" />
-      <workItem from="1680943731486" duration="4335000" />
+      <workItem from="1680943731486" duration="5407000" />
     </task>
     <task id="LOCAL-00001" summary="lst">
       <created>1680424849490</created>
@@ -83,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680951702547</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="erased">
+      <created>1680953923452</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680953923452</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,9 +109,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lst" />
-    <MESSAGE value="erased" />
     <MESSAGE value="implemented main method" />
     <MESSAGE value="we use recursion by calling method isAllDigits inside itself to check if it's true for all characters one by one" />
-    <option name="LAST_COMMIT_MESSAGE" value="we use recursion by calling method isAllDigits inside itself to check if it's true for all characters one by one" />
+    <MESSAGE value="erased" />
+    <option name="LAST_COMMIT_MESSAGE" value="erased" />
   </component>
 </project>
