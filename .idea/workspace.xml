@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a99df10-6f27-4a4e-8d21-5ff57b5a7bfc" name="Changes" comment="implemented main method">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem  1/src/CheckForDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/problem  1/src/CheckForDigits.java" afterDir="false" />
+    <list default="true" id="0a99df10-6f27-4a4e-8d21-5ff57b5a7bfc" name="Changes" comment="we use recursion by calling method isAllDigits inside itself to check if it's true for all characters one by one">
+      <change beforePath="$PROJECT_DIR$/problem  1/src/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/problem  1/src/Factorial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -53,7 +53,7 @@
       <workItem from="1680423667174" duration="63000" />
       <workItem from="1680423933424" duration="970000" />
       <workItem from="1680487866008" duration="455000" />
-      <workItem from="1680943731486" duration="3983000" />
+      <workItem from="1680943731486" duration="4335000" />
     </task>
     <task id="LOCAL-00001" summary="lst">
       <created>1680424849490</created>
@@ -76,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680945760610</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="we use recursion by calling method isAllDigits inside itself to check if it's true for all characters one by one">
+      <created>1680951702547</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680951702547</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +104,7 @@
     <MESSAGE value="lst" />
     <MESSAGE value="erased" />
     <MESSAGE value="implemented main method" />
-    <option name="LAST_COMMIT_MESSAGE" value="implemented main method" />
+    <MESSAGE value="we use recursion by calling method isAllDigits inside itself to check if it's true for all characters one by one" />
+    <option name="LAST_COMMIT_MESSAGE" value="we use recursion by calling method isAllDigits inside itself to check if it's true for all characters one by one" />
   </component>
 </project>
