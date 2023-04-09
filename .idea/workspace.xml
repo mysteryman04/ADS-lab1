@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a99df10-6f27-4a4e-8d21-5ff57b5a7bfc" name="Changes" comment="going to change the method by solving the task with another faster algorithm">
+    <list default="true" id="0a99df10-6f27-4a4e-8d21-5ff57b5a7bfc" name="Changes" comment="first part of code, that checks easy ones">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/problem  1/src/IsPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/problem  1/src/IsPrime.java" afterDir="false" />
     </list>
@@ -54,7 +54,7 @@
       <workItem from="1680423667174" duration="63000" />
       <workItem from="1680423933424" duration="970000" />
       <workItem from="1680487866008" duration="455000" />
-      <workItem from="1680943731486" duration="7085000" />
+      <workItem from="1680943731486" duration="8021000" />
     </task>
     <task id="LOCAL-00001" summary="lst">
       <created>1680424849490</created>
@@ -112,7 +112,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681023212955</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="first part of code, that checks easy ones">
+      <created>1681023855241</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1681023855241</updated>
+    </task>
+    <task id="LOCAL-00010" summary="first part of code, that checks easy ones">
+      <created>1681023862910</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1681023862910</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +151,7 @@
     <MESSAGE value="main method that takes the input and out with method result" />
     <MESSAGE value="written factorial recursive method that decreases num and multiplies itself until the basecase 1" />
     <MESSAGE value="going to change the method by solving the task with another faster algorithm" />
-    <option name="LAST_COMMIT_MESSAGE" value="going to change the method by solving the task with another faster algorithm" />
+    <MESSAGE value="first part of code, that checks easy ones" />
+    <option name="LAST_COMMIT_MESSAGE" value="first part of code, that checks easy ones" />
   </component>
 </project>
