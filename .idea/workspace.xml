@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a99df10-6f27-4a4e-8d21-5ff57b5a7bfc" name="Changes" comment="written factorial recursive method that decreases num and multiplies itself until the basecase 1">
+    <list default="true" id="0a99df10-6f27-4a4e-8d21-5ff57b5a7bfc" name="Changes" comment="going to change the method by solving the task with another faster algorithm">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem  1/src/IsPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/problem  1/src/IsPrime.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,7 @@
       <workItem from="1680423667174" duration="63000" />
       <workItem from="1680423933424" duration="970000" />
       <workItem from="1680487866008" duration="455000" />
-      <workItem from="1680943731486" duration="6568000" />
+      <workItem from="1680943731486" duration="7085000" />
     </task>
     <task id="LOCAL-00001" summary="lst">
       <created>1680424849490</created>
@@ -104,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680955295218</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="going to change the method by solving the task with another faster algorithm">
+      <created>1681023212955</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1681023212955</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +136,7 @@
     <MESSAGE value="erased" />
     <MESSAGE value="main method that takes the input and out with method result" />
     <MESSAGE value="written factorial recursive method that decreases num and multiplies itself until the basecase 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="written factorial recursive method that decreases num and multiplies itself until the basecase 1" />
+    <MESSAGE value="going to change the method by solving the task with another faster algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="going to change the method by solving the task with another faster algorithm" />
   </component>
 </project>
